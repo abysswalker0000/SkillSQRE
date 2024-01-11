@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c91c47363586f204cbeeccadc5aa0cf5
+guid: b8e9dbae29a467943a1793ecd5b35696
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,18 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: cloudSprite
+  - name: 2
     originalName: 
-    pivot: {x: 0.53846157, y: -1}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 13
-      height: 6
-    spriteID: 8d68bf397cf9519498612a1d60f1aaa1
+      width: 31
+      height: 53
+    spriteID: 1366dd0d9a68b804c8538882083e5dea
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -142,23 +142,23 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -907294458
-    name: cloudSprite
+    guid: 1666755152
+    name: 2
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: cloudSprite
+    - name: 2
       frameIndex: 0
       cellRect:
-        x: 7
-        y: 6
-        width: 13
-        height: 6
-      spriteId: 8d68bf397cf9519498612a1d60f1aaa1
+        x: 0
+        y: 0
+        width: 31
+        height: 53
+      spriteId: 1366dd0d9a68b804c8538882083e5dea
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 28, y: 15}
+  canvasSize: {x: 31, y: 53}

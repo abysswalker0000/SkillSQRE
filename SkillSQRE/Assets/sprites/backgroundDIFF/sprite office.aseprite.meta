@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3f49847f958ae4745acb18321e7c95d3
+guid: 5dbba43ff131ee24db3a8170f8836c77
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,18 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: longcloud
+  - name: sprite office
     originalName: 
-    pivot: {x: 0.57894737, y: -0.5714286}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 19
-      height: 7
-    spriteID: e9669f65f54637d499551505989dde2e
+      width: 192
+      height: 108
+    spriteID: ed4bbe9c9b41f8f4789cfdbf781e6f4c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -142,23 +142,23 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1641447337
-    name: longcloud
+    guid: -1607416059
+    name: sprite office
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: longcloud
+    - name: sprite office
       frameIndex: 0
       cellRect:
-        x: 3
-        y: 4
-        width: 19
-        height: 7
-      spriteId: e9669f65f54637d499551505989dde2e
+        x: 0
+        y: 0
+        width: 192
+        height: 108
+      spriteId: ed4bbe9c9b41f8f4789cfdbf781e6f4c
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 28, y: 15}
+  canvasSize: {x: 192, y: 108}
